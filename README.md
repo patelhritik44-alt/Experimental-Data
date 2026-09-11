@@ -2,5 +2,5 @@
 -Hritik Patel, 2026
 -4 Datasets across 3 verification trials
 -Horizon Academic Research Program
--.csv, .png, .jpg, .json
+-.csv, .png, .jpg
 -mm, Hz, FIV
