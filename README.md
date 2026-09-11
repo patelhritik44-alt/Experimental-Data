@@ -4,3 +4,4 @@
 -Horizon Academic Research Program
 -.csv, .png, .jpg
 -mm, Hz, FIV
+-Images uploaded to WebPlotDigitizer, original data files with all x-values, verification spreadsheets, graphed points with equations in desmos
